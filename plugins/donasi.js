@@ -6,7 +6,7 @@ let handler = async m => m.reply(`
 
 ╭─「 Donasi • Non Pulsa 」
 │ • Gopay,Dana [087772343860]
-│ • https://saweria.co/Nurutomo
+│ • Qris [Chat #Owner]
 ╰────
 `.trim()) // Tambah sendiri kalo mau
 handler.help = ['donasi']
