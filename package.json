@@ -1,6 +1,6 @@
 {
-  "name": "wabot-aq",
-  "version": "2.5.1",
+  "name": "anfebn",
+  "version": "1.0",
   "description": "Customizable WhatsApp Bot",
   "depecrated": false,
   "main": "index.js",
@@ -19,9 +19,9 @@
     "whatsapp",
     "js-whatsapp"
   ],
-  "homepage": "https://github.com/anfebnBotz/wabot-aq",
+  "homepage": "https://github.com/anfebnBotz/anfebn",
   "author": {
-    "name": "anfebnBotz"
+    "name": "anfebn"
   },
   "repository": {
     "type": "git",
