@@ -1,8 +1,7 @@
-# wabot-aq
+# anfebn
 
 Simple WhatsApp Bot
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Nurutomo/wabot-aq)
 
 ## FOR TERMUX/UBUNTU/SSH USER
 
@@ -28,8 +27,8 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/anfebnBotz/wabot-aq
-cd wabot-aq
+git clone https://github.com/anfebnBotz/anfebn
+cd anfebn
 npm install
 npm update
 ```
