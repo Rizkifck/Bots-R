@@ -25,10 +25,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nurutomo/wabot-aq.git"
+    "url": "git+https://github.com/anfebnBotz/anfebn.git"
   },
   "bugs": {
-    "url": "https://github.com/Nurutomo/wabot-aq/issues"
+    "url": "https://github.com/anfebnBotz/anfebn/issues"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
